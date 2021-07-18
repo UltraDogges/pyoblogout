@@ -1,6 +1,6 @@
 # Pyoblogout
 
-This small script generate icons for your oblogout using your pywal colorscheme 
+This small script generate icons for your oblogout using your [pywal](https://github.com/dylanaraps/pywal) colorscheme 
 
 ## Instalation
 
